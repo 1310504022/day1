@@ -1,0 +1,17 @@
+  .content{
+        background-color: lemonchiffon;
+        color: blueviolet;
+        width:800px;
+        margin:5px auto;
+    }
+    h1{
+        color: brown;
+        font-family: "標楷體";
+        border-bottom:1px dotted skyblue;
+        text-align:center;
+    }
+    .movie-img{
+        border:2px solid lightsalmon;
+        padding:5px 5px 3px 3px;
+        float:right;
+    }
